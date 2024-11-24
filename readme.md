@@ -1,4 +1,3 @@
-Here’s a simple `README.md` file for your project:
 
 ---
 
@@ -92,4 +91,3 @@ deactivate
 
 ---
 
-Let me know if you need further customizations!
